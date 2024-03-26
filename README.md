@@ -1,27 +1,30 @@
-# Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
+# Personal Notes on Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 
-Welcome to the GitHub repository for machine learning projects and exercises based on the book "Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow, 3rd Edition" by Aurélien Géron. This repository contains Jupyter notebooks that cover the key concepts and practical examples needed to become proficient in machine learning.
+Welcome to my personal repository of notes and projects based on "Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow, 3rd Edition" by Aurélien Géron. This repository serves as a digital compilation of my learning journey through the book, featuring Jupyter notebooks that encapsulate key concepts, practical exercises, and insights derived from each chapter.
+
+## Disclaimer
+
+The content within this repository is based on "Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow, 3rd Edition" by Aurélien Géron. All informational credit for the material and methodologies presented goes to the original author. This repository contains my personal notes and interpretations, intended for educational purposes and personal reference only.
 
 ## About the Book
 
-"Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow" is a comprehensive guide that provides the theory, techniques, and practical know-how to design and implement machine learning solutions. This repository is structured to reflect the latest best practices and technologies in the field of machine learning, as presented in the third edition of the book.
+Aurélien Géron's book is a cornerstone in the field of machine learning, offering an in-depth look into developing machine learning models using Scikit-Learn, Keras, and TensorFlow. It covers a wide range of topics from basic to advanced techniques, making it an invaluable resource for learners and practitioners alike.
 
 ## Repository Structure
 
-This repository is organized by chapters, each corresponding to a chapter in the book. Each folder contains Jupyter notebooks along with necessary datasets and images to provide a hands-on learning experience.
+This repository is organized by chapters, with each directory containing the Jupyter notebooks relevant to the topics covered in that chapter of the book. Supporting images, data, and figures are stored within respective subdirectories.
 
 ## Getting Started
 
-To get started, you will need:
-
-- Python 3.8 or newer
+To explore these notebooks, you will need:
+- Python 3.8+
 - Jupyter Notebook or JupyterLab
-- Necessary Python packages: `numpy`, `pandas`, `matplotlib`, `scikit-learn`, `keras`, `tensorflow`
+- Relevant Python libraries such as numpy, pandas, matplotlib, scikit-learn, keras, tensorflow
 
-You can install the required packages using `pip`:
-
-```pip install numpy pandas matplotlib scikit-learn keras tensorflow jupyterlab```
-
+To install the required Python packages, run:
+```shell
+pip install numpy pandas matplotlib scikit-learn keras tensorflow jupyterlab
+```
 ## How to Use This Repository
 
 1. Clone the repository to your local machine.
